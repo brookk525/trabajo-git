@@ -9,3 +9,4 @@ Generando el conflicto...
 Línea añadida desde la rama main.
 Línea añadida en la rama experimento.
 
+ajuste 1
